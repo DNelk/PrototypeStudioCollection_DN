@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Black bear
+Author: Poly by Google
+URL: https://poly.google.com/view/56ym_pyVnel
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cave
+Author: Simon W
+URL: https://poly.google.com/view/aQu19DnVK-M
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: EvergreenTree1
+Author: VR Eugene
+URL: https://poly.google.com/view/eMvE0Pc-ssl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Raspberries
+Author: Jarlan Perez
+URL: https://poly.google.com/view/168MJYvccsM
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Trout
+Author: Poly by Google
+URL: https://poly.google.com/view/2W2sKWYvk8k
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
