@@ -1,8 +1,26 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: Beagle
+Author: Poly by Google
+URL: https://poly.google.com/view/0BnDT3T1wTE
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Beer
+Author: Poly by Google
+URL: https://poly.google.com/view/0o4ac2O90Hu
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Black bear
 Author: Poly by Google
 URL: https://poly.google.com/view/56ym_pyVnel
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Bucket
+Author: Poly by Google
+URL: https://poly.google.com/view/4XG3CigZXnk
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -12,15 +30,69 @@ URL: https://poly.google.com/view/aQu19DnVK-M
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Conveyor
+Author: Josh
+URL: https://poly.google.com/view/5f4he3uHyov
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: EvergreenTree1
 Author: VR Eugene
 URL: https://poly.google.com/view/eMvE0Pc-ssl
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Keg of beer
+Author: Poly by Google
+URL: https://poly.google.com/view/0gLJ3kKkMEn
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: old time tv
+Author: Jeff Larson (Larson's ID/Tech Channel)
+URL: https://poly.google.com/view/7-dgp0L8elg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Plunger
+Author: Poly by Google
+URL: https://poly.google.com/view/4uD-hozrW27
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Puppy
+Author: Poly by Google
+URL: https://poly.google.com/view/3nFLBC3aXen
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Raccoon
+Author: Poly by Google
+URL: https://poly.google.com/view/5_mL2EUPZ1N
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Raspberries
 Author: Jarlan Perez
 URL: https://poly.google.com/view/168MJYvccsM
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Refrigerator
+Author: Poly by Google
+URL: https://poly.google.com/view/4nuAEwE9I-8
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Tire
+Author: Poly by Google
+URL: https://poly.google.com/view/1Jr3nTJEMOu
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Traffic Cone
+Author: Adam Marc Williams
+URL: https://poly.google.com/view/eFQ60hneKwL
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
